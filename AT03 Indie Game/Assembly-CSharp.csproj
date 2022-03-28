@@ -58,8 +58,11 @@
     <Compile Include="Assets\TestInteractionToo.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\FiniteStateMachine.cs" />
-    <Compile Include="Assets\Interaction.cs" />
+    <Compile Include="Assets\Scripts\Interaction.cs" />
     <Compile Include="Assets\TestInteraction.cs" />
+    <Compile Include="Assets\MenuButton.cs" />
+    <Compile Include="Assets\MenuNavigation.cs" />
+    <Compile Include="Assets\SomeScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
